@@ -15,3 +15,6 @@
 
 New BSD License(3-clause BSD license)
 
+## 実行可能ファイルの入手
+
+MAKCRAFT サイトの [CliModline のページ](http://www.makcraft.com/4-programs/35-climodline.html) から入手できます。
